@@ -17,9 +17,13 @@
     justify-content: space-between;
 }
 
+.pannel-flex{
+    justify-content: space-evenly;
+}
 
 @media (max-width: 767.98px){
     .two-speaker{
         justify-content: space-evenly;
     }
 }
+
